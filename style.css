@@ -30,7 +30,7 @@ body {
 .home {
     position: absolute;
     z-index: 3;
-    top: 20%;
+    bottom: 20%;
     left: 20%;
     
 
